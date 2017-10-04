@@ -13,3 +13,5 @@ The plot.validann function is a plot method for objects of class `validann' that
 Goodness-of-fit plots (predictive, replicative validation): scatter and Q-Q plots of observed versus predicted data and observed and predicted data against data order.
 Residual analysis plots (replicative validation): histogram and normal probability plot of residuals; residual autocorrelation and partial autocorrelation plots; standardised residuals against predicted data and standardised residuals against against order of the data.
 Sensitivity analysis plots (structural validation): Profile sensitivity plots: for each input, plots of predicted response versus percentile of input; PaD sensitivity plots: for each input, plots of relative and absolute sensitivity versus observed response.
+
+![](README_files/figure-markdown_github/unnamed-chunk-4-1.png) ![](README_files/figure-markdown_github/unnamed-chunk-4-2.png) ![](README_files/figure-markdown_github/unnamed-chunk-4-3.png) ![](README_files/figure-markdown_github/unnamed-chunk-4-4.png) ![](README_files/figure-markdown_github/unnamed-chunk-4-5.png)
